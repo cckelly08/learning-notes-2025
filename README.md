@@ -12,7 +12,7 @@ My semester seminar notes, weekly learning reflections, and cross-discipline tho
 ### Courses
 - (to be added)
 
-- ### Mindtrain
+### Mindtrain
 - (to be added)
 
 ### Projects
