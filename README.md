@@ -6,7 +6,7 @@ My semester seminar notes, weekly learning reflections, and cross-discipline tho
 
 ## Structure
 - `seminars/` — seminar notes
-- - [2025-09-12 — Ultrafast Lasers](seminars/2025-09-12-ultrafast-lasers.md)
+- - [2025-09-12 — Ultrafast Lasers] (seminars/2025-09-12-ultrafast-lasers.md)
 - `courses/` — course weekly notes
 - `projects/` — small scripts, analysis notebooks 
 - `images/` — supplementary figures/screenshots
