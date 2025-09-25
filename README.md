@@ -5,7 +5,8 @@ My semester seminar notes, weekly learning reflections, and cross-discipline tho
 **Purpose:** A public collection of seminar notes, weekly learning reflections, and short projects — mostly on photonics, semiconductors, and interdisciplinary reflections.
 
 ## Structure
-- `seminars/` — seminar notes 
+- `seminars/` — seminar notes
+- - [2025-09-12 — Ultrafast Lasers](seminars/2025-09-12-ultrafast-lasers.md)
 - `courses/` — course weekly notes
 - `projects/` — small scripts, analysis notebooks 
 - `images/` — supplementary figures/screenshots
