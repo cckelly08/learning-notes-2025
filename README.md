@@ -19,4 +19,4 @@ Each markdown note follows:
 
 ## Contact
 LinkedIn: http://linkedin.com/in/芷菱-張-ab7444339  
-Email: kelly.karry.0818@gmail.com
+Email: 
