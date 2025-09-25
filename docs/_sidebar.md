@@ -1,13 +1,10 @@
 - 📚 [Home](/)
 
-- 🧑‍🏫 [Seminars](seminars/README.md)
-  - [2025-09-12 — Ultrafast Lasers](seminars/2025-09-12-ultrafast-lasers.md)
+- 📖 [Seminars](seminar/README.md)
+  - [2025-09-12 — Ultrafast Lasers](seminar/2025-09-12-ultrafast-lasers.md)
 
 - 🧠 [Mindtrain](mindtrain/README.md)
-  - coming soon
 
-- 📖 [Courses](courses/README.md)
-  - coming soon
+- 📚 [Courses](courses/README.md)
 
 - 🎵 [Culture / Feminism](culture/README.md)
-  - coming soon
