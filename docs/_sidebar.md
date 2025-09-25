@@ -1,4 +1,7 @@
 - [🏠 Home](/)
-- [📒 Seminars](seminars/README.md)
+- [📝 Seminars](seminars/README.md)
+  - [2025-09-12 — Ultrafast Lasers](seminars/2025-09-12-ultrafast-lasers.md)
 - [📚 Courses](#)
+  - coming soon
 - [🎶 Culture / Feminism](#)
+  - coming soon
