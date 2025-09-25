@@ -1,0 +1,4 @@
+- [🏠 Home](/)
+- [📒 Seminars](seminars/README.md)
+- [📚 Courses](#)
+- [🎶 Culture / Feminism](#)
