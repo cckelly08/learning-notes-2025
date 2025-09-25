@@ -47,5 +47,4 @@
 ---
 
 > **Attachments:**  
-> 把投影片截圖放到 `docs/images/`（下方示範如何上傳），然後在此插入：  
-> `![slide](./images/2025-09-12-slide1.png)`
+
